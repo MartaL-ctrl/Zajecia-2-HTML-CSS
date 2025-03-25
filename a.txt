@@ -1,1 +1,2 @@
 
+menadzer poswiadczen -> poswiadczenia systemu windows -> usuwamy git 
