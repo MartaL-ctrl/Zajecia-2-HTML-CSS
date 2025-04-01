@@ -12,3 +12,24 @@ otatniaa liczba - ile z tego zajmuje dany element, musi się sumować do 12
 aaa
 comit, halo
 pls work
+ - nie sluchalam bo nie dzialalo
+ - co sie stanie jak 12 i 6 na przyklad
+
+
+ ćw 2:
+<footer class="bg-dark text-white text-center p-3">:
+- bg-dark → 📌 Kolory tła
+- Ustawia ciemne tło (dark oznacza odcień ciemnoszary/czarny).
+- Możesz użyć np. bg-primary, bg-danger, bg-success dla innych kolorów.
+- text-white → 📌 Kolory tekstu
+- Zmienia kolor tekstu na biały.
+- Inne opcje: text-primary (niebieski), text-danger (czerwony), text-muted (wyszarzony).
+- text-center → 📌 Wyrównanie tekstu
+- Wyrównuje tekst do środka.
+- Alternatywy: text-start (do lewej), text-end (do prawej).
+- p-3 → 📌 Marginesy i odstępy
+- Dodaje wewnętrzny odstęp (padding) o wartości 3 (w skali Bootstrapa).
+- Większe odstępy: p-4, p-5; mniejsze: p-1, p-2.
+- Możesz także użyć m-3 dla marginesów zamiast paddingu.
+
+
