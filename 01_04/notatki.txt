@@ -8,4 +8,6 @@ ile części zajmuje dany element, bootstrap normalnie dzieli na 12 części str
             <div class="col-sm-4">
                 <p>Jestem kolumną 3</p>
             </div>
-ostatnia liczba - ile z tego zajmuje dany element, musi się sumować do 12
+otatnia liczba - ile z tego zajmuje dany element, musi się sumować do 12
+aaa
+comit, halo
